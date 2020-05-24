@@ -1,4 +1,4 @@
-# 🦕🦖 deno-module-starter
+# 🦕🦖 deno-module-boilerplate
 
 [Deno](https://deno.land) module starter repository.
 
@@ -23,9 +23,3 @@ deno ./test.ts
 ```bash
 deno fmt **/*.ts
 ```
-
-## Resources
-
-- [Deno Website](https://deno.land)
-- [Deno Style Guide](https://deno.land/std/style_guide.md)
-- [Deno Gitter](https://gitter.im/denolife/Lobby)
