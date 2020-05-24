@@ -1,4 +1,4 @@
-# 🦕 deno-module-starter
+# 🦕🦖 deno-module-starter
 
 [Deno](https://deno.land) module starter repository.
 
