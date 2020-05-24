@@ -1,4 +1,4 @@
-# 🦕 deno-module-starter
+# 🦕🦖 deno-module-starter
 
 [Deno](https://deno.land) module starter repository.
 
@@ -8,7 +8,7 @@
 import { getHelloWorld } from "https://raw.githubusercontent.com/ntedgi/deno-module-starter/master/mod.ts";
 
 const helloWorld = getHelloWorld();
-console.log(helloWorld); // Prints "Hello World" in bold
+console.log(helloWorld); // Prints "Hello World" in bold underline blue
 ```
 
 ## Test
